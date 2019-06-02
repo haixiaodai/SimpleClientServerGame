@@ -1,9 +1,8 @@
 Before run this application, please have your own server address and port number, add them to Client.java.
 This is an assignment of Network Progtamming course of RMIT, using this project for plagiarism purposes is striclly prohibited and the author is not responsible for any plagiarism using this project.
+To complie: java *.java
 
-
-1.	Start server on your server: java Server
-Start Client on client side: java Client, then input first name. After user enter first name, the application will try to connect to server. If user want to start a second client, start a new terminal window and connect to netprog2, then run “java Client” to start a second client program.
+1.	Start server on your server: java Server. Start Client on client side: java Client, then input first name. After user enter first name, the application will try to connect to server. If user want to start a second client, start a new terminal window and connect to netprog2, then run “java Client” to start a second client program.
  ![alt text](https://github.com/dhx2261/dhximages/blob/master/NP2.png)
 
 2.	If connect to server successfully, the successful message will show, user will be waiting for other users to join the game, when there are three users in the queue or it reaches 60 seconds since first user to join the game, the game will start.
