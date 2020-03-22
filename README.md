@@ -1,5 +1,5 @@
 Before run this application, please have your own server address and port number, add them to Client.java.
-This is an assignment of Network Progtamming course of RMIT, using this project for plagiarism purposes is striclly prohibited and the author is not responsible for any plagiarism using this project.
+This is an assignment of Network Progtamming course of RMIT, using this project for plagiarism purposes is striclly prohibited and the owner of this repo is not responsible for any plagiarism using this project.
 To complie: java *.java
 
 1.	Start server on your server: java Server. Start Client on client side: java Client, then input first name. After user enter first name, the application will try to connect to server. If user want to start a second client, start a new terminal window and connect to netprog2, then run “java Client” to start a second client program.
